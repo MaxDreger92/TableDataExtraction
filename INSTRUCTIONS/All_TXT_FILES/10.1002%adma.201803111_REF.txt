@@ -1,0 +1,3 @@
+Author=Jing-Jing Lv, Matthew Jouny, Wesley Luc, Wenlei Zhu, Jun-Jie Zhu, and Feng Jiao,
+Title=A Highly Porous Copper Electrocatalyst for Carbon Dioxide Reduction,
+Subject=Advanced Materials 2018.30:1803111,

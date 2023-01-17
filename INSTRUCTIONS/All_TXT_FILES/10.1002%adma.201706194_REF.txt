@@ -1,0 +1,3 @@
+Author=Yan-Xin Duan, Fan-Lu Meng, Kai-Hua Liu, Sha-Sha Yi, Si-Jia Li, Jun-Min Yan, and Qing Jiang,
+Title=Amorphizing of Cu Nanoparticles toward Highly Efficient and Robust Electrocatalyst for CO2 Reduction to Liquid Fuels with High Faradaic Efficiencies,
+Subject=Advanced Materials 2018.30:1706194,

@@ -1,0 +1,3 @@
+Author=Yugang Gao, Qian Wu, Xizhuang Liang, Zeyan Wang, Zhaoke Zheng, Peng Wang, Yuanyuan Liu, Ying Dai, Myung-Hwan Whangbo, and Baibiao Huang,
+Title=Cu2O Nanoparticles with Both {100} and {111} Facets for Enhancing the Selectivity and Activity of CO2 Electroreduction to Ethylene,
+Subject=Advanced Science 2020.7:1902820,

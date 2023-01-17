@@ -1,0 +1,4182 @@
+{
+  "search-results": {
+    "opensearch:totalResults": "248",
+    "opensearch:startIndex": "0",
+    "opensearch:itemsPerPage": "100",
+    "opensearch:Query": {
+      "@role": "request",
+      "@searchTerms": "title(ink OR catalyst ink) AND keywords(proton exchange OR membrane electrode OR decal transfer OR Electrochemical impedance spectroscopy OR Cyclic voltammetry OR Nafion morphology OR Nafion dilute solutions OR Platinum catalyst electrodes OR Membrane electrode assembly OR Proton exchange membrane OR fuel cell OR Non-platinum electrocatalysts OR Oxygen reduction reaction OR MEA stability OR XPS OR Structure-to-property relationship OR Multivariate analysis OR PGM-Free catalyst OR Mass transport resistanceIonic resistance OR Ionomer distribution OR Nano-CT OR Ink composition OR low-temperature polymer electrolyte membrane exchange water electrolysis OR rheology OR catalyst inks OR iridium oxide OR ionomer OR catalyst layer OR Dispersion) AND abstract(Nafion dilute solutions OR fuel cell OR catalyst layer OR ink composition)",
+      "@startPage": "0"
+    },
+    "link": [
+      {
+        "@_fa": "true",
+        "@ref": "self",
+        "@href": "https://api.elsevier.com/content/search/sciencedirect?start=0&count=100&query=title%28ink+OR+catalyst+ink%29+AND+keywords%28proton+exchange+OR+membrane+electrode+OR+decal+transfer+OR+Electrochemical+impedance+spectroscopy+OR+Cyclic+voltammetry+OR+Nafion+morphology+OR+Nafion+dilute+solutions+OR+Platinum+catalyst+electrodes+OR+Membrane+electrode+assembly+OR+Proton+exchange+membrane+OR+fuel+cell+OR+Non-platinum+electrocatalysts+OR+Oxygen+reduction+reaction+OR+MEA+stability+OR+XPS+OR+Structure-to-property+relationship+OR+Multivariate+analysis+OR+PGM-Free+catalyst+OR+Mass+transport+resistanceIonic+resistance+OR+Ionomer+distribution+OR+Nano-CT+OR+Ink+composition+OR+low-temperature+polymer+electrolyte+membrane+exchange+water+electrolysis+OR+rheology+OR+catalyst+inks+OR+iridium+oxide+OR+ionomer+OR+catalyst+layer+OR+Dispersion%29+AND+abstract%28Nafion+dilute+solutions+OR+fuel+cell+OR+catalyst+layer+OR+ink+composition%29&year=1995-2020",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@ref": "first",
+        "@href": "https://api.elsevier.com/content/search/sciencedirect?start=0&count=100&query=title%28ink+OR+catalyst+ink%29+AND+keywords%28proton+exchange+OR+membrane+electrode+OR+decal+transfer+OR+Electrochemical+impedance+spectroscopy+OR+Cyclic+voltammetry+OR+Nafion+morphology+OR+Nafion+dilute+solutions+OR+Platinum+catalyst+electrodes+OR+Membrane+electrode+assembly+OR+Proton+exchange+membrane+OR+fuel+cell+OR+Non-platinum+electrocatalysts+OR+Oxygen+reduction+reaction+OR+MEA+stability+OR+XPS+OR+Structure-to-property+relationship+OR+Multivariate+analysis+OR+PGM-Free+catalyst+OR+Mass+transport+resistanceIonic+resistance+OR+Ionomer+distribution+OR+Nano-CT+OR+Ink+composition+OR+low-temperature+polymer+electrolyte+membrane+exchange+water+electrolysis+OR+rheology+OR+catalyst+inks+OR+iridium+oxide+OR+ionomer+OR+catalyst+layer+OR+Dispersion%29+AND+abstract%28Nafion+dilute+solutions+OR+fuel+cell+OR+catalyst+layer+OR+ink+composition%29&year=1995-2020",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@ref": "next",
+        "@href": "https://api.elsevier.com/content/search/sciencedirect?start=100&count=100&query=title%28ink+OR+catalyst+ink%29+AND+keywords%28proton+exchange+OR+membrane+electrode+OR+decal+transfer+OR+Electrochemical+impedance+spectroscopy+OR+Cyclic+voltammetry+OR+Nafion+morphology+OR+Nafion+dilute+solutions+OR+Platinum+catalyst+electrodes+OR+Membrane+electrode+assembly+OR+Proton+exchange+membrane+OR+fuel+cell+OR+Non-platinum+electrocatalysts+OR+Oxygen+reduction+reaction+OR+MEA+stability+OR+XPS+OR+Structure-to-property+relationship+OR+Multivariate+analysis+OR+PGM-Free+catalyst+OR+Mass+transport+resistanceIonic+resistance+OR+Ionomer+distribution+OR+Nano-CT+OR+Ink+composition+OR+low-temperature+polymer+electrolyte+membrane+exchange+water+electrolysis+OR+rheology+OR+catalyst+inks+OR+iridium+oxide+OR+ionomer+OR+catalyst+layer+OR+Dispersion%29+AND+abstract%28Nafion+dilute+solutions+OR+fuel+cell+OR+catalyst+layer+OR+ink+composition%29&year=1995-2020",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@ref": "last",
+        "@href": "https://api.elsevier.com/content/search/sciencedirect?start=148&count=100&query=title%28ink+OR+catalyst+ink%29+AND+keywords%28proton+exchange+OR+membrane+electrode+OR+decal+transfer+OR+Electrochemical+impedance+spectroscopy+OR+Cyclic+voltammetry+OR+Nafion+morphology+OR+Nafion+dilute+solutions+OR+Platinum+catalyst+electrodes+OR+Membrane+electrode+assembly+OR+Proton+exchange+membrane+OR+fuel+cell+OR+Non-platinum+electrocatalysts+OR+Oxygen+reduction+reaction+OR+MEA+stability+OR+XPS+OR+Structure-to-property+relationship+OR+Multivariate+analysis+OR+PGM-Free+catalyst+OR+Mass+transport+resistanceIonic+resistance+OR+Ionomer+distribution+OR+Nano-CT+OR+Ink+composition+OR+low-temperature+polymer+electrolyte+membrane+exchange+water+electrolysis+OR+rheology+OR+catalyst+inks+OR+iridium+oxide+OR+ionomer+OR+catalyst+layer+OR+Dispersion%29+AND+abstract%28Nafion+dilute+solutions+OR+fuel+cell+OR+catalyst+layer+OR+ink+composition%29&year=1995-2020",
+        "@type": "application/json"
+      }
+    ],
+    "entry": [
+      {
+        "@_fa": "true",
+        "load-date": "2020-09-01T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0360319920329165"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0360319920329165?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.ijhydene.2020.07.241",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0360319920329165",
+        "dc:title": "Effects of ionomer and dispersion methods on rheological behavior of proton exchange membrane fuel cell catalyst layer ink",
+        "prism:publicationName": "International Journal of Hydrogen Energy",
+        "prism:volume": "45",
+        "prism:coverDate": "2020-10-30",
+        "prism:startingPage": "29430",
+        "prism:endingPage": "29441",
+        "prism:doi": "10.1016/j.ijhydene.2020.07.241",
+        "openaccess": false,
+        "pii": "S0360319920329165",
+        "authors": {
+          "author": [
+            {
+              "$": "Shaojie Du"
+            },
+            {
+              "$": "Wenkang Li"
+            },
+            {
+              "$": "Pang-Chieh Sui"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2020-05-30T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S2211285520305000"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S2211285520305000?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.nanoen.2020.104943",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S2211285520305000",
+        "dc:title": "Utilizing ink composition to tune bulk-electrode gas transport, performance, and operational robustness for a Fe\u2013N\u2013C catalyst in polymer electrolyte fuel cell",
+        "prism:publicationName": "Nano Energy",
+        "prism:volume": "75",
+        "prism:coverDate": "2020-09-30",
+        "prism:startingPage": "104943",
+        "prism:doi": "10.1016/j.nanoen.2020.104943",
+        "openaccess": false,
+        "pii": "S2211285520305000",
+        "authors": {
+          "author": [
+            {
+              "$": "Luigi Osmieri"
+            },
+            {
+              "$": "Guanxiong Wang"
+            },
+            {
+              "$": "Firat C. Cetinbas"
+            },
+            {
+              "$": "K. C. Neyerlin"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2019-10-08T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0360319919333221"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0360319919333221?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.ijhydene.2019.09.012",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0360319919333221",
+        "dc:title": "The effect of solvent and ionomer on agglomeration in fuel cell catalyst inks: Simulation by the Discrete Element Method",
+        "prism:publicationName": "International Journal of Hydrogen Energy",
+        "prism:volume": "44",
+        "prism:coverDate": "2019-11-05",
+        "prism:startingPage": "28984",
+        "prism:endingPage": "28995",
+        "prism:doi": "10.1016/j.ijhydene.2019.09.012",
+        "openaccess": false,
+        "pii": "S0360319919333221",
+        "authors": {
+          "author": [
+            {
+              "$": "Magnus So"
+            },
+            {
+              "$": "Tomohiro Ohnishi"
+            },
+            {
+              "$": "Kayoung Park"
+            },
+            {
+              "$": "Gen Inoue"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2012-10-26T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0378775312016114"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0378775312016114?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.jpowsour.2012.10.055",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0378775312016114",
+        "dc:title": "Influence of the composition of isopropyl alcohol/water mixture solvents in catalyst ink solutions on proton exchange membrane fuel cell performance",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:volume": "225",
+        "prism:coverDate": "2013-03-01",
+        "prism:startingPage": "293",
+        "prism:endingPage": "303",
+        "prism:doi": "10.1016/j.jpowsour.2012.10.055",
+        "openaccess": false,
+        "pii": "S0378775312016114",
+        "authors": {
+          "author": [
+            {
+              "$": "Trung Truc Ngo"
+            },
+            {
+              "$": "T. Leon Yu"
+            },
+            {
+              "$": "Hsiu-Li Lin"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2013-03-21T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0378775313004461"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0378775313004461?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.jpowsour.2013.03.055",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0378775313004461",
+        "dc:title": "Nafion-based membrane electrode assemblies prepared from catalyst inks containing alcohol/water solvent mixtures",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:volume": "238",
+        "prism:coverDate": "2013-09-15",
+        "prism:startingPage": "1",
+        "prism:endingPage": "10",
+        "prism:doi": "10.1016/j.jpowsour.2013.03.055",
+        "openaccess": false,
+        "pii": "S0378775313004461",
+        "authors": {
+          "author": [
+            {
+              "$": "Trung Truc Ngo"
+            },
+            {
+              "$": "T. Leon Yu"
+            },
+            {
+              "$": "Hsiu-Li Lin"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2018-02-21T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S2352492818300333"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S2352492818300333?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.mtcomm.2018.02.003",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S2352492818300333",
+        "dc:title": "Polyacrylic acid-Nafion composites as stable catalyst support in PEM fuel cell electrodes",
+        "prism:publicationName": "Materials Today Communications",
+        "prism:volume": "16",
+        "prism:coverDate": "2018-09-30",
+        "prism:startingPage": "8",
+        "prism:endingPage": "13",
+        "prism:doi": "10.1016/j.mtcomm.2018.02.003",
+        "openaccess": false,
+        "pii": "S2352492818300333",
+        "authors": {
+          "author": [
+            {
+              "$": "Manoj Krishna Kayarkatte"
+            },
+            {
+              "$": "\u00d6znur Delikaya"
+            },
+            {
+              "$": "Christina Roth"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2020-08-19T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0960148120313070"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0960148120313070?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.renene.2020.08.064",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0960148120313070",
+        "dc:title": "Smart catalyst deposition by 3D printing for Polymer Electrolyte Membrane Fuel Cell manufacturing",
+        "prism:publicationName": "Renewable Energy",
+        "prism:volume": "163",
+        "prism:coverDate": "2021-01-31",
+        "prism:startingPage": "414",
+        "prism:endingPage": "422",
+        "prism:doi": "10.1016/j.renene.2020.08.064",
+        "openaccess": false,
+        "pii": "S0960148120313070",
+        "authors": {
+          "author": [
+            {
+              "$": "Maria Cannio"
+            },
+            {
+              "$": "Stefania Righi"
+            },
+            {
+              "$": "Irene Gatto"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2020-08-17T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0378775320308880"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0378775320308880?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.jpowsour.2020.228584",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0378775320308880",
+        "dc:title": "Fabrication of catalyst layer with ionomer nanofiber scaffolding for polymer electrolyte fuel cells",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:volume": "476",
+        "prism:coverDate": "2020-11-15",
+        "prism:startingPage": "228584",
+        "prism:doi": "10.1016/j.jpowsour.2020.228584",
+        "openaccess": false,
+        "pii": "S0378775320308880",
+        "authors": {
+          "author": [
+            {
+              "$": "Shuhei Yoshino"
+            },
+            {
+              "$": "Akihiro Shinohara"
+            },
+            {
+              "$": "Kensaku Kodama"
+            },
+            {
+              "$": "Yu Morimoto"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2019-03-12T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0378775319301831"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0378775319301831?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.jpowsour.2019.02.058",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0378775319301831",
+        "dc:title": "Controlling cracking formation in fuel cell catalyst layers",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:volume": "419",
+        "prism:coverDate": "2019-04-15",
+        "prism:startingPage": "219",
+        "prism:endingPage": "228",
+        "prism:doi": "10.1016/j.jpowsour.2019.02.058",
+        "openaccess": false,
+        "pii": "S0378775319301831",
+        "authors": {
+          "author": [
+            {
+              "$": "Naomi Kumano"
+            },
+            {
+              "$": "Kenji Kudo"
+            },
+            {
+              "$": "Akihiko Suda"
+            },
+            {
+              "$": "Hiroshi Nakamura"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2020-08-02T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0008622320307077"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0008622320307077?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.carbon.2020.07.047",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0008622320307077",
+        "dc:title": "Influence of ionomer adsorption on agglomerate structures in high-solid catalyst inks",
+        "prism:publicationName": "Carbon",
+        "prism:volume": "169",
+        "prism:coverDate": "2020-11-30",
+        "prism:startingPage": "429",
+        "prism:endingPage": "439",
+        "prism:doi": "10.1016/j.carbon.2020.07.047",
+        "openaccess": false,
+        "pii": "S0008622320307077",
+        "authors": {
+          "author": [
+            {
+              "$": "Naomi Kumano"
+            },
+            {
+              "$": "Kenji Kudo"
+            },
+            {
+              "$": "Yusuke Akimoto"
+            },
+            {
+              "$": "Hiroshi Nakamura"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2020-10-26T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0254058420313286"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0254058420313286?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.matchemphys.2020.123968",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0254058420313286",
+        "dc:title": "Nanoscale catalyst based on a heterometallic carboxylate complex of platinum and iron for hydrogen-air fuel cells",
+        "prism:publicationName": "Materials Chemistry and Physics",
+        "prism:volume": "259",
+        "prism:coverDate": "2021-02-01",
+        "prism:startingPage": "123968",
+        "prism:doi": "10.1016/j.matchemphys.2020.123968",
+        "openaccess": false,
+        "pii": "S0254058420313286",
+        "authors": {
+          "author": [
+            {
+              "$": "Natalia A. Mayorova"
+            },
+            {
+              "$": "Alexandr D. Modestov"
+            },
+            {
+              "$": "Igor P. Stolyarov"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2019-06-12T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0378775319304902"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0378775319304902?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.jpowsour.2019.04.079",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0378775319304902",
+        "dc:title": "Mass-transport properties of electrosprayed Pt/C catalyst layers for polymer-electrolyte fuel cells",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:volume": "427",
+        "prism:coverDate": "2019-07-01",
+        "prism:startingPage": "250",
+        "prism:endingPage": "259",
+        "prism:doi": "10.1016/j.jpowsour.2019.04.079",
+        "openaccess": false,
+        "pii": "S0378775319304902",
+        "authors": {
+          "author": [
+            {
+              "$": "Julio J. Conde"
+            },
+            {
+              "$": "M. Antonia Folgado"
+            },
+            {
+              "$": "P. Ferreira-Aparicio"
+            },
+            {
+              "$": "Adam Z. Weber"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2018-04-30T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0013468618309988"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0013468618309988?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.electacta.2018.04.213",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0013468618309988",
+        "dc:title": "Tuning hydrophobic-hydrophilic balance of cathode catalyst layer to improve cell performance of proton exchange membrane fuel cell (PEMFC) by mixing polytetrafluoroethylene (PTFE)",
+        "prism:publicationName": "Electrochimica Acta",
+        "prism:volume": "277",
+        "prism:coverDate": "2018-07-01",
+        "prism:startingPage": "110",
+        "prism:endingPage": "115",
+        "prism:doi": "10.1016/j.electacta.2018.04.213",
+        "openaccess": false,
+        "pii": "S0013468618309988",
+        "authors": {
+          "author": [
+            {
+              "$": "Bin Chi"
+            },
+            {
+              "$": "Sanying Hou"
+            },
+            {
+              "$": "Guangzhi Liu"
+            },
+            {
+              "$": "Jianwei Ren"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2020-10-06T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0021979720313035"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0021979720313035?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.jcis.2020.09.114",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0021979720313035",
+        "dc:title": "Transition metal-containing nitrogen-doped nanocarbon catalysts derived from 5-methylresorcinol for anion exchange membrane fuel cell application",
+        "prism:publicationName": "Journal of Colloid and Interface Science",
+        "prism:volume": "584",
+        "prism:coverDate": "2021-02-15",
+        "prism:startingPage": "263",
+        "prism:endingPage": "274",
+        "prism:doi": "10.1016/j.jcis.2020.09.114",
+        "openaccess": false,
+        "pii": "S0021979720313035",
+        "authors": {
+          "author": [
+            {
+              "$": "Kaarel Kisand"
+            },
+            {
+              "$": "Ave Sarapuu"
+            },
+            {
+              "$": "Kaido Tammeveski"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2008-06-03T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S037877530801135X"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S037877530801135X?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.jpowsour.2008.05.072",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S037877530801135X",
+        "dc:title": "Numerical investigation of the effect of cathode catalyst layer structure and composition on polymer electrolyte membrane fuel cell performance",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:volume": "183",
+        "prism:coverDate": "2008-09-01",
+        "prism:startingPage": "629",
+        "prism:endingPage": "642",
+        "prism:doi": "10.1016/j.jpowsour.2008.05.072",
+        "openaccess": false,
+        "pii": "S037877530801135X",
+        "authors": {
+          "author": [
+            {
+              "$": "Sai Kamarajugadda"
+            },
+            {
+              "$": "Sandip Mazumder"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2013-09-06T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0360319913019514"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0360319913019514?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.ijhydene.2013.08.011",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0360319913019514",
+        "dc:title": "Influence of catalyst layer polybenzimidazole molecular weight on the polybenzimidazole-based proton exchange membrane fuel cell performance",
+        "prism:publicationName": "International Journal of Hydrogen Energy",
+        "prism:volume": "38",
+        "prism:coverDate": "2013-10-17",
+        "prism:startingPage": "13742",
+        "prism:endingPage": "13753",
+        "prism:doi": "10.1016/j.ijhydene.2013.08.011",
+        "openaccess": false,
+        "pii": "S0360319913019514",
+        "authors": {
+          "author": [
+            {
+              "$": "Po-Hao Su"
+            },
+            {
+              "$": "Hsiu-Li Lin"
+            },
+            {
+              "$": "Yi-Pei Lin"
+            },
+            {
+              "$": "T. Leon Yu"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2020-03-05T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0378775320302755"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0378775320302755?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.jpowsour.2020.227972",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0378775320302755",
+        "dc:title": "Two-dimensional oxygen-deficient TiO<ce:inf\u00a0loc=post>2</ce:inf> nanosheets-supported Pt nanoparticles as durable catalyst for oxygen reduction reaction in proton exchange membrane fuel cells",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:volume": "455",
+        "prism:coverDate": "2020-04-15",
+        "prism:startingPage": "227972",
+        "prism:doi": "10.1016/j.jpowsour.2020.227972",
+        "openaccess": false,
+        "pii": "S0378775320302755",
+        "authors": {
+          "author": [
+            {
+              "$": "Keerti M. Naik"
+            },
+            {
+              "$": "Eiji Higuchi"
+            },
+            {
+              "$": "Hiroshi Inoue"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2016-09-14T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S1572665716304726"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S1572665716304726?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.jelechem.2016.09.014",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S1572665716304726",
+        "dc:title": "On the use of Nafion\u00ae in electrochemical studies of carbon supported oxygen reduction catalysts in aqueous media",
+        "prism:publicationName": "Journal of Electroanalytical Chemistry",
+        "prism:volume": "780",
+        "prism:coverDate": "2016-11-01",
+        "prism:startingPage": "134",
+        "prism:endingPage": "146",
+        "prism:doi": "10.1016/j.jelechem.2016.09.014",
+        "openaccess": false,
+        "pii": "S1572665716304726",
+        "authors": {
+          "author": [
+            {
+              "$": "Jerzy Chlistunoff"
+            },
+            {
+              "$": "Jos\u00e9-Mar\u00eda Sansi\u00f1ena"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2016-08-27T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S036031991632345X"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S036031991632345X?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.ijhydene.2016.08.025",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S036031991632345X",
+        "dc:title": "Tailoring cathode structure of catalyst coated membranes for performance enhancement in direct methanol fuel cells",
+        "prism:publicationName": "International Journal of Hydrogen Energy",
+        "prism:volume": "41",
+        "prism:coverDate": "2016-12-14",
+        "prism:startingPage": "21366",
+        "prism:endingPage": "21374",
+        "prism:doi": "10.1016/j.ijhydene.2016.08.025",
+        "openaccess": false,
+        "pii": "S036031991632345X",
+        "authors": {
+          "author": [
+            {
+              "$": "Asad Mehmood"
+            },
+            {
+              "$": "Myunggi An"
+            },
+            {
+              "$": "Heung Yong Ha"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2018-06-15T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0378775318305986"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0378775318305986?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.jpowsour.2018.06.002",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0378775318305986",
+        "dc:title": "Highly active Pt<ce:inf\u00a0loc=post>x</ce:inf>Pd<ce:inf\u00a0loc=post>y</ce:inf>/SnO<ce:inf\u00a0loc=post>2</ce:inf>/C catalyst for dimethyl ether oxidation in fuel cells",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:volume": "396",
+        "prism:coverDate": "2018-08-31",
+        "prism:startingPage": "335",
+        "prism:endingPage": "344",
+        "prism:doi": "10.1016/j.jpowsour.2018.06.002",
+        "openaccess": false,
+        "pii": "S0378775318305986",
+        "authors": {
+          "author": [
+            {
+              "$": "Diwakar Kashyap"
+            },
+            {
+              "$": "Hanan Teller"
+            },
+            {
+              "$": "Alex Schechter"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2018-09-12T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S2468606918301035"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S2468606918301035?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.mtener.2018.08.016",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S2468606918301035",
+        "dc:title": "A potential polymer formulation of a durable carbon-black catalyst with a significant fuel cell performance over a wide operating temperature range",
+        "prism:publicationName": "Materials Today Energy",
+        "prism:volume": "10",
+        "prism:coverDate": "2018-12-31",
+        "prism:startingPage": "161",
+        "prism:endingPage": "168",
+        "prism:doi": "10.1016/j.mtener.2018.08.016",
+        "openaccess": false,
+        "pii": "S2468606918301035",
+        "authors": {
+          "author": [
+            {
+              "$": "Mohamed R. Berber"
+            },
+            {
+              "$": "Tsuyohiko Fujigaya"
+            },
+            {
+              "$": "Naotoshi Nakashima"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2009-12-29T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0013468609015576"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0013468609015576?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.electacta.2009.12.044",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0013468609015576",
+        "dc:title": "Silica\u2013sol-templated mesoporous carbon as catalyst support for polymer electrolyte membrane fuel cell applications",
+        "prism:publicationName": "Electrochimica Acta",
+        "prism:volume": "55",
+        "prism:coverDate": "2010-03-01",
+        "prism:startingPage": "2721",
+        "prism:endingPage": "2726",
+        "prism:doi": "10.1016/j.electacta.2009.12.044",
+        "openaccess": false,
+        "pii": "S0013468609015576",
+        "authors": {
+          "author": [
+            {
+              "$": "Bing Liu"
+            },
+            {
+              "$": "Steve Creager"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2019-07-13T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0926337319306939"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0926337319306939?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.apcatb.2019.117947",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0926337319306939",
+        "dc:title": "ZIF derived PtNiCo/NC cathode catalyst for proton exchange membrane fuel cell",
+        "prism:publicationName": "Applied Catalysis B: Environmental",
+        "prism:volume": "258",
+        "prism:coverDate": "2019-12-05",
+        "prism:startingPage": "117947",
+        "prism:doi": "10.1016/j.apcatb.2019.117947",
+        "openaccess": false,
+        "pii": "S0926337319306939",
+        "authors": {
+          "author": [
+            {
+              "$": "Saadia Hanif"
+            },
+            {
+              "$": "Xuan Shi"
+            },
+            {
+              "$": "Naseem Iqbal"
+            },
+            {
+              "$": "A. M. Kannan"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2018-05-07T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0378775318301034"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0378775318301034?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.jpowsour.2018.02.001",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0378775318301034",
+        "dc:title": "Electrospun carbon nanofiber catalyst layers for polymer electrolyte membrane fuel cells: Structure and performance",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:volume": "392",
+        "prism:coverDate": "2018-07-15",
+        "prism:startingPage": "239",
+        "prism:endingPage": "250",
+        "prism:doi": "10.1016/j.jpowsour.2018.02.001",
+        "openaccess": false,
+        "pii": "S0378775318301034",
+        "authors": {
+          "author": [
+            {
+              "$": "Sophia Chan"
+            },
+            {
+              "$": "Jasna Jankovic"
+            },
+            {
+              "$": "Darija Susac"
+            },
+            {
+              "$": "Frank Ko"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2019-10-31T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0378775319313497"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0378775319313497?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.jpowsour.2019.227356",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0378775319313497",
+        "dc:title": "Nitrogen and phosphorus co-doped carbon networks derived from shrimp shells as an efficient oxygen reduction catalyst for microbial fuel cells",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:volume": "446",
+        "prism:coverDate": "2020-01-15",
+        "prism:startingPage": "227356",
+        "prism:doi": "10.1016/j.jpowsour.2019.227356",
+        "openaccess": false,
+        "pii": "S0378775319313497",
+        "authors": {
+          "author": [
+            {
+              "$": "Feng-Yi Zheng"
+            },
+            {
+              "$": "Ruisong Li"
+            },
+            {
+              "$": "Shiyu Ge"
+            },
+            {
+              "$": "Yucang Zhang"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2019-03-06T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S2095495618311574"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S2095495618311574?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.jechem.2019.03.003",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S2095495618311574",
+        "dc:title": "Platinum nanoparticles coated by graphene layers: A low-metal loading catalyst for methanol oxidation in alkaline media",
+        "prism:publicationName": "Journal of Energy Chemistry",
+        "prism:volume": "40",
+        "prism:coverDate": "2020-01-31",
+        "prism:startingPage": "81",
+        "prism:endingPage": "88",
+        "prism:doi": "10.1016/j.jechem.2019.03.003",
+        "openaccess": false,
+        "pii": "S2095495618311574",
+        "authors": {
+          "author": [
+            {
+              "$": "Camelia Berghian-Grosan"
+            },
+            {
+              "$": "Teodora Radu"
+            },
+            {
+              "$": "Alexandru R. Biris"
+            },
+            {
+              "$": "Adriana Vulcu"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2019-06-03T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0360319919319184"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0360319919319184?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.ijhydene.2019.05.062",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0360319919319184",
+        "dc:title": "Fe<ce:inf\u00a0loc=post>3</ce:inf>C/C nanoparticles encapsulated in N-doped graphene aerogel: an advanced oxygen reduction reaction catalyst for fiber-shaped fuel cells",
+        "prism:publicationName": "International Journal of Hydrogen Energy",
+        "prism:volume": "44",
+        "prism:coverDate": "2019-07-05",
+        "prism:startingPage": "18393",
+        "prism:endingPage": "18402",
+        "prism:doi": "10.1016/j.ijhydene.2019.05.062",
+        "openaccess": false,
+        "pii": "S0360319919319184",
+        "authors": {
+          "author": [
+            {
+              "$": "Yang Yang"
+            },
+            {
+              "$": "Jinxu Wang"
+            },
+            {
+              "$": "Yunlong Zhu"
+            },
+            {
+              "$": "Jun Li"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2018-06-20T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0169433218316672"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0169433218316672?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.apsusc.2018.06.100",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0169433218316672",
+        "dc:title": "Iodine-doped graphene \u2013 Catalyst layer in PEM fuel cells",
+        "prism:publicationName": "Applied Surface Science",
+        "prism:volume": "456",
+        "prism:coverDate": "2018-10-31",
+        "prism:startingPage": "238",
+        "prism:endingPage": "245",
+        "prism:doi": "10.1016/j.apsusc.2018.06.100",
+        "openaccess": false,
+        "pii": "S0169433218316672",
+        "authors": {
+          "author": [
+            {
+              "$": "Adriana Marinoiu"
+            },
+            {
+              "$": "Mircea Raceanu"
+            },
+            {
+              "$": "Elena Carcadea"
+            },
+            {
+              "$": "Mihai Varlam"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2008-09-20T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S036031990800517X"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S036031990800517X?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.ijhydene.2008.05.100",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S036031990800517X",
+        "dc:title": "Nanostructured platinum catalyst layer prepared by pulsed electrodeposition for use in PEM fuel cells",
+        "prism:publicationName": "International Journal of Hydrogen Energy",
+        "prism:volume": "33",
+        "prism:coverDate": "2008-10-31",
+        "prism:startingPage": "5672",
+        "prism:endingPage": "5677",
+        "prism:doi": "10.1016/j.ijhydene.2008.05.100",
+        "openaccess": false,
+        "pii": "S036031990800517X",
+        "authors": {
+          "author": [
+            {
+              "$": "N. Rajalakshmi"
+            },
+            {
+              "$": "K. S. Dhathathreyan"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2017-03-16T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S1572665717301819"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S1572665717301819?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.jelechem.2017.03.018",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S1572665717301819",
+        "dc:title": "Performance of the electrode based on silicon carbide supported platinum catalyst for proton exchange membrane fuel cells",
+        "prism:publicationName": "Journal of Electroanalytical Chemistry",
+        "prism:volume": "791",
+        "prism:coverDate": "2017-04-15",
+        "prism:startingPage": "175",
+        "prism:endingPage": "184",
+        "prism:doi": "10.1016/j.jelechem.2017.03.018",
+        "openaccess": false,
+        "pii": "S1572665717301819",
+        "authors": {
+          "author": [
+            {
+              "$": "Shuang Ma Andersen"
+            },
+            {
+              "$": "Mikkel Juul Larsen"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2019-03-04T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0013468619304128"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0013468619304128?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.electacta.2019.03.018",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0013468619304128",
+        "dc:title": "<ce:italic>In situ</ce:italic> decoration of metallic catalysts in flow-through electrodes: Application of Fe/Pt/C for glycerol oxidation in a microfluidic fuel cell",
+        "prism:publicationName": "Electrochimica Acta",
+        "prism:volume": "305",
+        "prism:coverDate": "2019-05-10",
+        "prism:startingPage": "47",
+        "prism:endingPage": "55",
+        "prism:doi": "10.1016/j.electacta.2019.03.018",
+        "openaccess": false,
+        "pii": "S0013468619304128",
+        "authors": {
+          "author": [
+            {
+              "$": "Cau\u00ea A. Martins"
+            },
+            {
+              "$": "Omar A. Ibrahim"
+            },
+            {
+              "$": "Pei Pei"
+            },
+            {
+              "$": "Erik Kjeang"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2015-02-28T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0360319915003328"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0360319915003328?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.ijhydene.2015.02.027",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0360319915003328",
+        "dc:title": "Fabrication of catalyst coated membrane with screen printing method in a proton exchange membrane fuel cell",
+        "prism:publicationName": "International Journal of Hydrogen Energy",
+        "prism:volume": "40",
+        "prism:coverDate": "2015-04-13",
+        "prism:startingPage": "4649",
+        "prism:endingPage": "4658",
+        "prism:doi": "10.1016/j.ijhydene.2015.02.027",
+        "openaccess": false,
+        "pii": "S0360319915003328",
+        "authors": {
+          "author": [
+            {
+              "$": "Wentao Wang"
+            },
+            {
+              "$": "Shunquan Chen"
+            },
+            {
+              "$": "Jianjun Li"
+            },
+            {
+              "$": "Wei Wang"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2005-08-10T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S1388248105001906"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S1388248105001906?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.elecom.2005.07.003",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S1388248105001906",
+        "dc:title": "Improvement of direct methanol fuel cell performance by modifying catalyst coated membrane structure",
+        "prism:publicationName": "Electrochemistry Communications",
+        "prism:volume": "7",
+        "prism:coverDate": "2005-10-31",
+        "prism:startingPage": "1007",
+        "prism:endingPage": "1012",
+        "prism:doi": "10.1016/j.elecom.2005.07.003",
+        "openaccess": false,
+        "pii": "S1388248105001906",
+        "authors": {
+          "author": [
+            {
+              "$": "Suli Wang"
+            },
+            {
+              "$": "Gongquan Sun"
+            },
+            {
+              "$": "Guoxiong Wang"
+            },
+            {
+              "$": "Qin Xin"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2017-02-24T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0360319917304111"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0360319917304111?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.ijhydene.2017.01.212",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0360319917304111",
+        "dc:title": "Pulse electrodeposited cathode catalyst layers for PEM fuel cells",
+        "prism:publicationName": "International Journal of Hydrogen Energy",
+        "prism:volume": "42",
+        "prism:coverDate": "2017-05-11",
+        "prism:startingPage": "13649",
+        "prism:endingPage": "13660",
+        "prism:doi": "10.1016/j.ijhydene.2017.01.212",
+        "openaccess": false,
+        "pii": "S0360319917304111",
+        "authors": {
+          "author": [
+            {
+              "$": "A. Egetenmeyer"
+            },
+            {
+              "$": "I. Radev"
+            },
+            {
+              "$": "D. Durneata"
+            },
+            {
+              "$": "R. Hempelmann"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2016-10-13T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S036031991630581X"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S036031991630581X?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.ijhydene.2016.08.193",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S036031991630581X",
+        "dc:title": "Enhanced performance of non-PGM catalysts in air operated PEM-fuel cells",
+        "prism:publicationName": "International Journal of Hydrogen Energy",
+        "prism:volume": "41",
+        "prism:coverDate": "2016-12-21",
+        "prism:startingPage": "22598",
+        "prism:endingPage": "22604",
+        "prism:doi": "10.1016/j.ijhydene.2016.08.193",
+        "openaccess": false,
+        "pii": "S036031991630581X",
+        "authors": {
+          "author": [
+            {
+              "$": "Heather M. Barkholtz"
+            },
+            {
+              "$": "Lina Chong"
+            },
+            {
+              "$": "Zachary B. Kaiser"
+            },
+            {
+              "$": "Di-Jia Liu"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2017-06-26T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0360319917322814"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0360319917322814?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.ijhydene.2017.06.017",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0360319917322814",
+        "dc:title": "Highly microporous nitrogen doped graphene-like carbon material as an efficient fuel cell catalyst",
+        "prism:publicationName": "International Journal of Hydrogen Energy",
+        "prism:volume": "42",
+        "prism:coverDate": "2017-08-03",
+        "prism:startingPage": "19903",
+        "prism:endingPage": "19912",
+        "prism:doi": "10.1016/j.ijhydene.2017.06.017",
+        "openaccess": false,
+        "pii": "S0360319917322814",
+        "authors": {
+          "author": [
+            {
+              "$": "Xiaoyan Li"
+            },
+            {
+              "$": "Yingfang Yao"
+            },
+            {
+              "$": "Jianguo Liu"
+            },
+            {
+              "$": "Zhigang Zou"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2019-04-25T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S1387700319303636"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S1387700319303636?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.inoche.2019.04.036",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S1387700319303636",
+        "dc:title": "Cobalt oxides nanoparticles supported on nitrogen-doped carbon nanotubes as high-efficiency cathode catalysts for microbial fuel cells",
+        "prism:publicationName": "Inorganic Chemistry Communications",
+        "prism:volume": "105",
+        "prism:coverDate": "2019-07-31",
+        "prism:startingPage": "69",
+        "prism:endingPage": "75",
+        "prism:doi": "10.1016/j.inoche.2019.04.036",
+        "openaccess": false,
+        "pii": "S1387700319303636",
+        "authors": {
+          "author": [
+            {
+              "$": "Wei Yang"
+            },
+            {
+              "$": "Jia En Lu"
+            },
+            {
+              "$": "Yudong Zhang"
+            },
+            {
+              "$": "Shaowei Chen"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2017-07-17T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0360544217312756"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0360544217312756?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.energy.2017.07.098",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0360544217312756",
+        "dc:title": "Durability investigation and performance study of hydrothermal synthesized platinum-multi walled carbon nanotube nanocomposite catalyst for proton exchange membrane fuel cell",
+        "prism:publicationName": "Energy",
+        "prism:volume": "138",
+        "prism:coverDate": "2017-11-01",
+        "prism:startingPage": "696",
+        "prism:endingPage": "705",
+        "prism:doi": "10.1016/j.energy.2017.07.098",
+        "openaccess": false,
+        "pii": "S0360544217312756",
+        "authors": {
+          "author": [
+            {
+              "$": "Farokh Mirzaei"
+            },
+            {
+              "$": "Mohammad Javad Parnian"
+            },
+            {
+              "$": "Soosan Rowshanzamir"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2019-05-29T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0360319919316271"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0360319919316271?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.ijhydene.2019.04.194",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0360319919316271",
+        "dc:title": "Understanding the interplay between cathode catalyst layer porosity and thickness on transport limitations en route to high-performance PEMFCs",
+        "prism:publicationName": "International Journal of Hydrogen Energy",
+        "prism:volume": "44",
+        "prism:coverDate": "2019-06-21",
+        "prism:startingPage": "16944",
+        "prism:endingPage": "16955",
+        "prism:doi": "10.1016/j.ijhydene.2019.04.194",
+        "openaccess": false,
+        "pii": "S0360319919316271",
+        "authors": {
+          "author": [
+            {
+              "$": "M. B. Sassin"
+            },
+            {
+              "$": "Y. Garsany"
+            },
+            {
+              "$": "R. W. Atkinson"
+            },
+            {
+              "$": "K. E. Swider-Lyons"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2016-04-04T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0013468616307927"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0013468616307927?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.electacta.2016.04.004",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0013468616307927",
+        "dc:title": "Molecular Dynamics Study of Ionomer Adsorption at a Carbon Surface in Catalyst Ink",
+        "prism:publicationName": "Electrochimica Acta",
+        "prism:volume": "202",
+        "prism:coverDate": "2016-06-01",
+        "prism:startingPage": "14",
+        "prism:endingPage": "23",
+        "prism:doi": "10.1016/j.electacta.2016.04.004",
+        "openaccess": false,
+        "pii": "S0013468616307927",
+        "authors": {
+          "author": [
+            {
+              "$": "Tetsuya Mashio"
+            },
+            {
+              "$": "Atsushi Ohma"
+            },
+            {
+              "$": "Takashi Tokumasu"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2019-03-21T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0013468619305274"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0013468619305274?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.electacta.2019.03.111",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0013468619305274",
+        "dc:title": "Cu@Pt catalysts prepared by galvanic replacement of polyhedral copper nanoparticles for polymer electrolyte membrane fuel cells",
+        "prism:publicationName": "Electrochimica Acta",
+        "prism:volume": "306",
+        "prism:coverDate": "2019-05-20",
+        "prism:startingPage": "167",
+        "prism:endingPage": "174",
+        "prism:doi": "10.1016/j.electacta.2019.03.111",
+        "openaccess": false,
+        "pii": "S0013468619305274",
+        "authors": {
+          "author": [
+            {
+              "$": "Meixia Wu"
+            },
+            {
+              "$": "Xin Wu"
+            },
+            {
+              "$": "Lei Zhang"
+            },
+            {
+              "$": "Faisal Alamgir"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2006-05-23T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0378775306005830"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0378775306005830?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.jpowsour.2006.02.101",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0378775306005830",
+        "dc:title": "Effect of dispersion methods of an unsupported Pt-Ru black anode catalyst on the power performance of a direct methanol fuel cell",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:volume": "161",
+        "prism:coverDate": "2006-10-20",
+        "prism:startingPage": "11",
+        "prism:endingPage": "18",
+        "prism:doi": "10.1016/j.jpowsour.2006.02.101",
+        "openaccess": false,
+        "pii": "S0378775306005830",
+        "authors": {
+          "author": [
+            {
+              "$": "Chan Lim"
+            },
+            {
+              "$": "R. G. Allen"
+            },
+            {
+              "$": "K. Scott"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2020-11-25T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0360319920341720"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0360319920341720?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.ijhydene.2020.11.005",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0360319920341720",
+        "dc:title": "Ternary Al\u2013Mg\u2013Ag alloy promoted palladium nanoparticles as potential catalyst for enhanced electro-oxidation of ethanol",
+        "prism:publicationName": "International Journal of Hydrogen Energy",
+        "prism:coverDate": "2020-11-25",
+        "prism:doi": "10.1016/j.ijhydene.2020.11.005",
+        "openaccess": false,
+        "pii": "S0360319920341720",
+        "authors": {
+          "author": [
+            {
+              "$": "Sreya Roy Chowdhury"
+            },
+            {
+              "$": "Jagdish C. Bhangoji"
+            },
+            {
+              "$": "T. Maiyalagan"
+            },
+            {
+              "$": "Suresh S. Shendage"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2017-06-29T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0360319917323133"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0360319917323133?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.ijhydene.2017.06.046",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0360319917323133",
+        "dc:title": "Carbon-supported Pd-Ag catalysts with silica-coating layers as active and durable cathode catalysts for polymer electrolyte fuel cells",
+        "prism:publicationName": "International Journal of Hydrogen Energy",
+        "prism:volume": "42",
+        "prism:coverDate": "2017-07-27",
+        "prism:startingPage": "18951",
+        "prism:endingPage": "18958",
+        "prism:doi": "10.1016/j.ijhydene.2017.06.046",
+        "openaccess": false,
+        "pii": "S0360319917323133",
+        "authors": {
+          "author": [
+            {
+              "$": "Kayoung Park"
+            },
+            {
+              "$": "Hideki Matsune"
+            },
+            {
+              "$": "Masahiro Kishida"
+            },
+            {
+              "$": "Sakae Takenaka"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2009-04-02T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0378775309005576"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0378775309005576?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.jpowsour.2009.03.051",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0378775309005576",
+        "dc:title": "Membrane electrode assemblies for high-temperature polymer electrolyte fuel cells based on <ce:italic>poly</ce:italic>(2,5-benzimidazole) membranes with phosphoric acid impregnation via the catalyst layers",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:volume": "192",
+        "prism:coverDate": "2009-07-15",
+        "prism:startingPage": "258",
+        "prism:endingPage": "266",
+        "prism:doi": "10.1016/j.jpowsour.2009.03.051",
+        "openaccess": false,
+        "pii": "S0378775309005576",
+        "authors": {
+          "author": [
+            {
+              "$": "Christoph Wannek"
+            },
+            {
+              "$": "Werner Lehnert"
+            },
+            {
+              "$": "J\u00fcrgen Mergel"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2010-06-14T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0360319910009432"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0360319910009432?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.ijhydene.2010.05.008",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0360319910009432",
+        "dc:title": "Effect of surface composition of Pt-Au alloy cathode catalyst on the performance of direct methanol fuel cells",
+        "prism:publicationName": "International Journal of Hydrogen Energy",
+        "prism:volume": "35",
+        "prism:coverDate": "2010-08-31",
+        "prism:startingPage": "8699",
+        "prism:endingPage": "8706",
+        "prism:doi": "10.1016/j.ijhydene.2010.05.008",
+        "openaccess": false,
+        "pii": "S0360319910009432",
+        "authors": {
+          "author": [
+            {
+              "$": "J. B. Xu"
+            },
+            {
+              "$": "T. S. Zhao"
+            },
+            {
+              "$": "W. W. Yang"
+            },
+            {
+              "$": "S. Y. Shen"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2018-05-28T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S1572665718303898"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S1572665718303898?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.jelechem.2018.05.035",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S1572665718303898",
+        "dc:title": "Precious metal free Ni/Cu/Mo trimetallic nanocomposite supported on multi-walled carbon nanotubes as highly efficient and durable anode-catalyst for alkaline direct methanol fuel cells",
+        "prism:publicationName": "Journal of Electroanalytical Chemistry",
+        "prism:volume": "823",
+        "prism:coverDate": "2018-08-15",
+        "prism:startingPage": "98",
+        "prism:endingPage": "105",
+        "prism:doi": "10.1016/j.jelechem.2018.05.035",
+        "openaccess": false,
+        "pii": "S1572665718303898",
+        "authors": {
+          "author": [
+            {
+              "$": "Mazen K. Nazal"
+            },
+            {
+              "$": "Olanrewaju Suleiman Olakunle"
+            },
+            {
+              "$": "Amir Al-Ahmed"
+            },
+            {
+              "$": "Syed Javaid Zaidi"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2016-02-27T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0360544216300445"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0360544216300445?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.energy.2016.02.003",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0360544216300445",
+        "dc:title": "Radiolitically synthesized nano Ag/C catalysts for oxygen reduction and borohydride oxidation reactions in alkaline media, for potential applications in fuel cells",
+        "prism:publicationName": "Energy",
+        "prism:volume": "101",
+        "prism:coverDate": "2016-04-15",
+        "prism:startingPage": "79",
+        "prism:endingPage": "90",
+        "prism:doi": "10.1016/j.energy.2016.02.003",
+        "openaccess": false,
+        "pii": "S0360544216300445",
+        "authors": {
+          "author": [
+            {
+              "$": "Ivan Sto\u0161evski"
+            },
+            {
+              "$": "Jelena Krsti\u0107"
+            },
+            {
+              "$": "Jadranka Miliki\u0107"
+            },
+            {
+              "$": "\u0160\u0107epan Miljani\u0107"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2016-12-03T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0022459616304571"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0022459616304571?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.jssc.2016.11.020",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0022459616304571",
+        "dc:title": "Synthesis and electrochemical characterization of Ti<ce:inf\u00a0loc=post>x</ce:inf>Ta<ce:inf\u00a0loc=post>y</ce:inf>Al<ce:inf\u00a0loc=post>z</ce:inf>N<ce:inf\u00a0loc=post>1-\u03b4</ce:inf>O<ce:inf\u00a0loc=post>\u03b3</ce:inf> for fuel cell catalyst supports",
+        "prism:publicationName": "Journal of Solid State Chemistry",
+        "prism:volume": "246",
+        "prism:coverDate": "2017-02-28",
+        "prism:startingPage": "293",
+        "prism:endingPage": "301",
+        "prism:doi": "10.1016/j.jssc.2016.11.020",
+        "openaccess": false,
+        "pii": "S0022459616304571",
+        "authors": {
+          "author": [
+            {
+              "$": "Ryo H. Wakabayashi"
+            },
+            {
+              "$": "H\u00e9ctor D. Abru\u00f1a"
+            },
+            {
+              "$": "Francis J. DiSalvo"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2017-12-22T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0378775317316191"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0378775317316191?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.jpowsour.2017.12.017",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0378775317316191",
+        "dc:title": "Power generation in microbial fuel cells using platinum group metal-free cathode catalyst: Effect of the catalyst loading on performance and costs",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:volume": "378",
+        "prism:coverDate": "2018-02-28",
+        "prism:startingPage": "169",
+        "prism:endingPage": "175",
+        "prism:doi": "10.1016/j.jpowsour.2017.12.017",
+        "openaccess": true,
+        "pii": "S0378775317316191",
+        "authors": {
+          "author": [
+            {
+              "$": "Carlo Santoro"
+            },
+            {
+              "$": "Mounika Kodali"
+            },
+            {
+              "$": "Sergio Herrera"
+            },
+            {
+              "$": "Plamen Atanassov"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2019-04-17T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0925838819313933"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0925838819313933?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.jallcom.2019.04.114",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0925838819313933",
+        "dc:title": "One-pot synthesis of efficient reduced graphene oxide supported binary Pt-Pd alloy nanoparticles as superior electro-catalyst and its electro-catalytic performance toward methanol electro-oxidation reaction in direct methanol fuel cell",
+        "prism:publicationName": "Journal of Alloys and Compounds",
+        "prism:volume": "793",
+        "prism:coverDate": "2019-07-15",
+        "prism:startingPage": "232",
+        "prism:endingPage": "246",
+        "prism:doi": "10.1016/j.jallcom.2019.04.114",
+        "openaccess": false,
+        "pii": "S0925838819313933",
+        "authors": {
+          "author": [
+            {
+              "$": "Mohamad Fahrul Radzi Hanifah"
+            },
+            {
+              "$": "Juhana Jaafar"
+            },
+            {
+              "$": "M. H. D. Othman"
+            },
+            {
+              "$": "Nor\u2019Ain Abd Rahman"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2017-06-30T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0360319917323352"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0360319917323352?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.ijhydene.2017.06.064",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0360319917323352",
+        "dc:title": "Sb doped SnO<ce:inf\u00a0loc=post>2</ce:inf> as a stable cathode catalyst support for low temperature polymer electrolyte membrane fuel cell",
+        "prism:publicationName": "International Journal of Hydrogen Energy",
+        "prism:volume": "42",
+        "prism:coverDate": "2017-11-16",
+        "prism:startingPage": "27950",
+        "prism:endingPage": "27961",
+        "prism:doi": "10.1016/j.ijhydene.2017.06.064",
+        "openaccess": false,
+        "pii": "S0360319917323352",
+        "authors": {
+          "author": [
+            {
+              "$": "Paritosh Kumar Mohanta"
+            },
+            {
+              "$": "Christian Gl\u00f6kler"
+            },
+            {
+              "$": "Alejandro Orozco Arenas"
+            },
+            {
+              "$": "Ludwig J\u00f6rissen"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2020-02-28T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/B9780128191583000100"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/B9780128191583000100?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/B978-0-12-819158-3.00010-0",
+        "prism:url": "https://api.elsevier.com/content/article/pii/B9780128191583000100",
+        "dc:title": "10: Non platinum-based cathode catalyst systems for direct methanol fuel cells",
+        "prism:publicationName": "Direct Methanol Fuel Cell Technology",
+        "prism:coverDate": "2020-12-31",
+        "prism:startingPage": "289",
+        "prism:endingPage": "316",
+        "prism:doi": "10.1016/B978-0-12-819158-3.00010-0",
+        "openaccess": false,
+        "pii": "B9780128191583000100",
+        "authors": {
+          "author": [
+            {
+              "$": "Carmelo Lo Vecchio"
+            },
+            {
+              "$": "David Sebasti\u00e1n"
+            },
+            {
+              "$": "Mar\u00eda Jes\u00fas L\u00e1zaro"
+            },
+            {
+              "$": "Vincenzo Baglio"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2010-08-03T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0378775310012863"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0378775310012863?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.jpowsour.2010.07.063",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0378775310012863",
+        "dc:title": "Proton exchange membrane fuel cells with nanoengineered AuPt catalysts at the cathode",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:volume": "196",
+        "prism:coverDate": "2011-01-15",
+        "prism:startingPage": "659",
+        "prism:endingPage": "665",
+        "prism:doi": "10.1016/j.jpowsour.2010.07.063",
+        "openaccess": false,
+        "pii": "S0378775310012863",
+        "authors": {
+          "author": [
+            {
+              "$": "Bin Fang"
+            },
+            {
+              "$": "Bridgid N. Wanjala"
+            },
+            {
+              "$": "Xiang Hu"
+            },
+            {
+              "$": "Chuan-Jian Zhong"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2011-12-09T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0360319911024931"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0360319911024931?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.ijhydene.2011.11.009",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0360319911024931",
+        "dc:title": "Durability of different carbon nanomaterial supports with PtRu catalyst in a direct methanol fuel cell",
+        "prism:publicationName": "International Journal of Hydrogen Energy",
+        "prism:volume": "37",
+        "prism:coverDate": "2012-02-29",
+        "prism:startingPage": "3415",
+        "prism:endingPage": "3424",
+        "prism:doi": "10.1016/j.ijhydene.2011.11.009",
+        "openaccess": false,
+        "pii": "S0360319911024931",
+        "authors": {
+          "author": [
+            {
+              "$": "Annukka Santasalo-Aarnio"
+            },
+            {
+              "$": "Maryam Borghei"
+            },
+            {
+              "$": "Ilya V. Anoshkin"
+            },
+            {
+              "$": "Tanja Kallio"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2017-09-09T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S037877531731039X"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S037877531731039X?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.jpowsour.2017.08.015",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S037877531731039X",
+        "dc:title": "Crumpled rGO-supported Pt-Ir bifunctional catalyst prepared by spray pyrolysis for unitized regenerative fuel cells",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:volume": "364",
+        "prism:coverDate": "2017-10-01",
+        "prism:startingPage": "215",
+        "prism:endingPage": "225",
+        "prism:doi": "10.1016/j.jpowsour.2017.08.015",
+        "openaccess": false,
+        "pii": "S037877531731039X",
+        "authors": {
+          "author": [
+            {
+              "$": "In Gyeom Kim"
+            },
+            {
+              "$": "In Wook Nah"
+            },
+            {
+              "$": "In-Hwan Oh"
+            },
+            {
+              "$": "Sehkyu Park"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2020-07-28T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0021951720302864"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0021951720302864?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.jcat.2020.07.012",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0021951720302864",
+        "dc:title": "Phosphate tolerance of nitrogen-coordinated-iron-carbon (FeNC) catalysts for oxygen reduction reaction: A size-related hindrance effect",
+        "prism:publicationName": "Journal of Catalysis",
+        "prism:volume": "390",
+        "prism:coverDate": "2020-10-31",
+        "prism:startingPage": "150",
+        "prism:endingPage": "160",
+        "prism:doi": "10.1016/j.jcat.2020.07.012",
+        "openaccess": false,
+        "pii": "S0021951720302864",
+        "authors": {
+          "author": [
+            {
+              "$": "Deeksha Jain"
+            },
+            {
+              "$": "Vance Gustin"
+            },
+            {
+              "$": "Dishari Basu"
+            },
+            {
+              "$": "Umit S. Ozkan"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2020-11-16T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0013468620318715"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0013468620318715?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.electacta.2020.137478",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0013468620318715",
+        "dc:title": "Oxygen vacancies enriched Bi based catalysts for enhancing electrocatalytic CO<ce:inf\u00a0loc=post>2</ce:inf> reduction to formate",
+        "prism:publicationName": "Electrochimica Acta",
+        "prism:volume": "367",
+        "prism:coverDate": "2021-01-20",
+        "prism:startingPage": "137478",
+        "prism:doi": "10.1016/j.electacta.2020.137478",
+        "openaccess": false,
+        "pii": "S0013468620318715",
+        "authors": {
+          "author": [
+            {
+              "$": "Xiu-Hui Zhao"
+            },
+            {
+              "$": "Qing-Song Chen"
+            },
+            {
+              "$": "Guo-Cong Guo"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2020-11-28T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S2213343720311477"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S2213343720311477?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.jece.2020.104798",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S2213343720311477",
+        "dc:title": "Reduction of carbon dioxide (CO<ce:inf\u00a0loc=post>2</ce:inf>) using \u2018p\u2019 & \u2018d\u2019 block electro-catalysts: A review",
+        "prism:publicationName": "Journal of Environmental Chemical Engineering",
+        "prism:volume": "9",
+        "prism:coverDate": "2021-02-28",
+        "prism:startingPage": "104798",
+        "prism:doi": "10.1016/j.jece.2020.104798",
+        "openaccess": false,
+        "pii": "S2213343720311477",
+        "authors": {
+          "author": [
+            {
+              "$": "Abhinav Sharma"
+            },
+            {
+              "$": "Prakash M. Gore"
+            },
+            {
+              "$": "Balasubramanian Kandasubramanian"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2010-02-20T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0013468610002987"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0013468610002987?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.electacta.2010.02.048",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0013468610002987",
+        "dc:title": "Nano-engineered PtVFe catalysts in proton exchange membrane fuel cells: Electrocatalytic performance",
+        "prism:publicationName": "Electrochimica Acta",
+        "prism:volume": "55",
+        "prism:coverDate": "2010-11-30",
+        "prism:startingPage": "8230",
+        "prism:endingPage": "8236",
+        "prism:doi": "10.1016/j.electacta.2010.02.048",
+        "openaccess": false,
+        "pii": "S0013468610002987",
+        "authors": {
+          "author": [
+            {
+              "$": "Bin Fang"
+            },
+            {
+              "$": "Jin Luo"
+            },
+            {
+              "$": "Peter N. Njoki"
+            },
+            {
+              "$": "Chuan-Jian Zhong"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2006-01-04T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0257897205013186"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0257897205013186?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.surfcoat.2005.11.119",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0257897205013186",
+        "dc:title": "Preparation and performance of novel MEA with multi catalyst layer structure for PEFC by magnetron sputter deposition technique",
+        "prism:publicationName": "Surface and Coatings Technology",
+        "prism:volume": "201",
+        "prism:coverDate": "2006-09-12",
+        "prism:startingPage": "214",
+        "prism:endingPage": "222",
+        "prism:doi": "10.1016/j.surfcoat.2005.11.119",
+        "openaccess": false,
+        "pii": "S0257897205013186",
+        "authors": {
+          "author": [
+            {
+              "$": "Chieh-Hao Wan"
+            },
+            {
+              "$": "Meng-Tsun Lin"
+            },
+            {
+              "$": "Qing-Huang Zhuang"
+            },
+            {
+              "$": "Chien-Heng Lin"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2009-04-18T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0360319909004467"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0360319909004467?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.ijhydene.2009.03.045",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0360319909004467",
+        "dc:title": "Durability studies on performance degradation of Pt/C catalysts of proton exchange membrane fuel cell",
+        "prism:publicationName": "International Journal of Hydrogen Energy",
+        "prism:volume": "34",
+        "prism:coverDate": "2009-05-31",
+        "prism:startingPage": "4387",
+        "prism:endingPage": "4394",
+        "prism:doi": "10.1016/j.ijhydene.2009.03.045",
+        "openaccess": false,
+        "pii": "S0360319909004467",
+        "authors": {
+          "author": [
+            {
+              "$": "Zhen-Bo Wang"
+            },
+            {
+              "$": "Peng-Jian Zuo"
+            },
+            {
+              "$": "Yuan-Yuan Chu"
+            },
+            {
+              "$": "Ge-Ping Yin"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2010-12-21T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0378775310022329"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0378775310022329?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.jpowsour.2010.12.026",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0378775310022329",
+        "dc:title": "A highly ordered Fe\u2013N\u2013C nanoarray as a non-precious oxygen-reduction catalyst for proton exchange membrane fuel cells",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:volume": "196",
+        "prism:coverDate": "2011-04-01",
+        "prism:startingPage": "3548",
+        "prism:endingPage": "3552",
+        "prism:doi": "10.1016/j.jpowsour.2010.12.026",
+        "openaccess": false,
+        "pii": "S0378775310022329",
+        "authors": {
+          "author": [
+            {
+              "$": "M. Lei"
+            },
+            {
+              "$": "P. G. Li"
+            },
+            {
+              "$": "L. H. Li"
+            },
+            {
+              "$": "W. H. Tang"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2009-04-01T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S1388248109001519"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S1388248109001519?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.elecom.2009.03.032",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S1388248109001519",
+        "dc:title": "Nanostructured PtVFe catalysts: Electrocatalytic performance in proton exchange membrane fuel cells",
+        "prism:publicationName": "Electrochemistry Communications",
+        "prism:volume": "11",
+        "prism:coverDate": "2009-06-30",
+        "prism:startingPage": "1139",
+        "prism:endingPage": "1141",
+        "prism:doi": "10.1016/j.elecom.2009.03.032",
+        "openaccess": false,
+        "pii": "S1388248109001519",
+        "authors": {
+          "author": [
+            {
+              "$": "Bin Fang"
+            },
+            {
+              "$": "Jin Luo"
+            },
+            {
+              "$": "Peter N. Njoki"
+            },
+            {
+              "$": "Chuan-Jian Zhong"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2012-02-25T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0378775312004235"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0378775312004235?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.jpowsour.2012.02.063",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0378775312004235",
+        "dc:title": "Generalized flooded agglomerate model for the cathode catalyst layer of a polymer electrolyte membrane fuel cell",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:volume": "208",
+        "prism:coverDate": "2012-06-15",
+        "prism:startingPage": "328",
+        "prism:endingPage": "339",
+        "prism:doi": "10.1016/j.jpowsour.2012.02.063",
+        "openaccess": false,
+        "pii": "S0378775312004235",
+        "authors": {
+          "author": [
+            {
+              "$": "Sai Kamarajugadda"
+            },
+            {
+              "$": "Sandip Mazumder"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2016-11-12T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S1572665716306063"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S1572665716306063?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.jelechem.2016.11.004",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S1572665716306063",
+        "dc:title": "Fuel cell applications of chemically synthesized zeolite modified electrode (ZME) as catalyst for alcohol electro-oxidation - A review",
+        "prism:publicationName": "Journal of Electroanalytical Chemistry",
+        "prism:volume": "783",
+        "prism:coverDate": "2016-12-15",
+        "prism:startingPage": "308",
+        "prism:endingPage": "315",
+        "prism:doi": "10.1016/j.jelechem.2016.11.004",
+        "openaccess": false,
+        "pii": "S1572665716306063",
+        "authors": {
+          "author": [
+            {
+              "$": "Basu M. Daas"
+            },
+            {
+              "$": "S. Ghosh"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2013-05-11T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0360319913009543"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0360319913009543?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.ijhydene.2013.04.061",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0360319913009543",
+        "dc:title": "Chemical activation of Vulcan<ce:sup\u00a0loc=post>\u00ae</ce:sup> XC72R to be used as support for NiNbPtRu catalysts in PEM fuel cells",
+        "prism:publicationName": "International Journal of Hydrogen Energy",
+        "prism:volume": "39",
+        "prism:coverDate": "2014-03-06",
+        "prism:startingPage": "3978",
+        "prism:endingPage": "3983",
+        "prism:doi": "10.1016/j.ijhydene.2013.04.061",
+        "openaccess": false,
+        "pii": "S0360319913009543",
+        "authors": {
+          "author": [
+            {
+              "$": "M. M. Antxustegi"
+            },
+            {
+              "$": "A. R. Pierna"
+            },
+            {
+              "$": "N. Ruiz"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2012-03-17T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0013468612003787"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0013468612003787?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.electacta.2012.03.039",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0013468612003787",
+        "dc:title": "Titanium carbide and its core-shelled derivative TiC@TiO<ce:inf\u00a0loc=post>2</ce:inf> as catalyst supports for proton exchange membrane fuel cells",
+        "prism:publicationName": "Electrochimica Acta",
+        "prism:volume": "69",
+        "prism:coverDate": "2012-05-01",
+        "prism:startingPage": "397",
+        "prism:endingPage": "405",
+        "prism:doi": "10.1016/j.electacta.2012.03.039",
+        "openaccess": false,
+        "pii": "S0013468612003787",
+        "authors": {
+          "author": [
+            {
+              "$": "Anna Ignaszak"
+            },
+            {
+              "$": "Chaojie Song"
+            },
+            {
+              "$": "Weimin Zhu"
+            },
+            {
+              "$": "Stephen Campbell"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2020-04-02T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0013468620305454"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0013468620305454?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.electacta.2020.136153",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0013468620305454",
+        "dc:title": "Enhanced performance of a PtCo recombination catalyst for reducing the H<ce:inf\u00a0loc=post>2</ce:inf> concentration in the O<ce:inf\u00a0loc=post>2</ce:inf> stream of a PEM electrolysis cell in the presence of a thin membrane and a high differential pressure",
+        "prism:publicationName": "Electrochimica Acta",
+        "prism:volume": "344",
+        "prism:coverDate": "2020-06-01",
+        "prism:startingPage": "136153",
+        "prism:doi": "10.1016/j.electacta.2020.136153",
+        "openaccess": false,
+        "pii": "S0013468620305454",
+        "authors": {
+          "author": [
+            {
+              "$": "N. Briguglio"
+            },
+            {
+              "$": "F. Pant\u00f2"
+            },
+            {
+              "$": "S. Siracusano"
+            },
+            {
+              "$": "A. S. Aric\u00f2"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2011-06-15T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S036031991101278X"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S036031991101278X?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.ijhydene.2011.05.066",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S036031991101278X",
+        "dc:title": "Electrocatalytic performance of Pt-based trimetallic alloy nanoparticle catalysts in proton exchange membrane fuel cells",
+        "prism:publicationName": "International Journal of Hydrogen Energy",
+        "prism:volume": "37",
+        "prism:coverDate": "2012-03-31",
+        "prism:startingPage": "4627",
+        "prism:endingPage": "4632",
+        "prism:doi": "10.1016/j.ijhydene.2011.05.066",
+        "openaccess": false,
+        "pii": "S036031991101278X",
+        "authors": {
+          "author": [
+            {
+              "$": "Bin Fang"
+            },
+            {
+              "$": "Bridgid N. Wanjala"
+            },
+            {
+              "$": "Jun Yin"
+            },
+            {
+              "$": "Chuan-Jian Zhong"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2016-05-31T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0376738816303970"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0376738816303970?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.memsci.2016.05.030",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0376738816303970",
+        "dc:title": "Synthesis and characterization of hybrid composite membranes and their properties: Single cell performances based on carbon black catalyst/proton-conducting hybrid composite membrane for H<ce:inf\u00a0loc=post>2</ce:inf>/O<ce:inf\u00a0loc=post>2</ce:inf> fuel cells",
+        "prism:publicationName": "Journal of Membrane Science",
+        "prism:volume": "517",
+        "prism:coverDate": "2016-11-01",
+        "prism:startingPage": "100",
+        "prism:endingPage": "110",
+        "prism:doi": "10.1016/j.memsci.2016.05.030",
+        "openaccess": false,
+        "pii": "S0376738816303970",
+        "authors": {
+          "author": "Uma Thanganathan"
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2018-07-27T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0926337318306829"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0926337318306829?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.apcatb.2018.07.064",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0926337318306829",
+        "dc:title": "Nano-size IrOx catalyst of high activity and stability in PEM water electrolyzer with ultra-low iridium loading",
+        "prism:publicationName": "Applied Catalysis B: Environmental",
+        "prism:volume": "239",
+        "prism:coverDate": "2018-12-30",
+        "prism:startingPage": "133",
+        "prism:endingPage": "146",
+        "prism:doi": "10.1016/j.apcatb.2018.07.064",
+        "openaccess": false,
+        "pii": "S0926337318306829",
+        "authors": {
+          "author": [
+            {
+              "$": "Haoran Yu"
+            },
+            {
+              "$": "Nemanja Danilovic"
+            },
+            {
+              "$": "Yang Wang"
+            },
+            {
+              "$": "Radenka Maric"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2013-03-26T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0360319913004540"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0360319913004540?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.ijhydene.2013.02.056",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0360319913004540",
+        "dc:title": "Ru@Pt core\u2013shell nanoparticles for methanol fuel cell catalyst: Control and effects of shell composition",
+        "prism:publicationName": "International Journal of Hydrogen Energy",
+        "prism:volume": "38",
+        "prism:coverDate": "2013-12-13",
+        "prism:startingPage": "16631",
+        "prism:endingPage": "16641",
+        "prism:doi": "10.1016/j.ijhydene.2013.02.056",
+        "openaccess": false,
+        "pii": "S0360319913004540",
+        "authors": {
+          "author": [
+            {
+              "$": "Navaneethan Muthuswamy"
+            },
+            {
+              "$": "Jose Luis Gomez de la Fuente"
+            },
+            {
+              "$": "Dung T. Tran"
+            },
+            {
+              "$": "De Chen"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2017-09-09T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0360319917333578"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0360319917333578?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.ijhydene.2017.08.108",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0360319917333578",
+        "dc:title": "Accelerated fuel cell tests of anodic Pt/Ru catalyst via identical location TEM: New aspects of degradation behavior",
+        "prism:publicationName": "International Journal of Hydrogen Energy",
+        "prism:volume": "42",
+        "prism:coverDate": "2017-10-05",
+        "prism:startingPage": "25359",
+        "prism:endingPage": "25371",
+        "prism:doi": "10.1016/j.ijhydene.2017.08.108",
+        "openaccess": true,
+        "pii": "S0360319917333578",
+        "authors": {
+          "author": [
+            {
+              "$": "K. Hengge"
+            },
+            {
+              "$": "T. G\u00e4nsler"
+            },
+            {
+              "$": "E. Pizzutilo"
+            },
+            {
+              "$": "C. Scheu"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2009-12-16T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0013468609014893"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0013468609014893?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.electacta.2009.12.004",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0013468609014893",
+        "dc:title": "Performance of the direct formic acid fuel cell with electrochemically modified palladium\u2013antimony anode catalyst",
+        "prism:publicationName": "Electrochimica Acta",
+        "prism:volume": "55",
+        "prism:coverDate": "2010-02-28",
+        "prism:startingPage": "2477",
+        "prism:endingPage": "2481",
+        "prism:doi": "10.1016/j.electacta.2009.12.004",
+        "openaccess": false,
+        "pii": "S0013468609014893",
+        "authors": {
+          "author": [
+            {
+              "$": "John L. Haan"
+            },
+            {
+              "$": "Kristin M. Stafford"
+            },
+            {
+              "$": "Robert D. Morgan"
+            },
+            {
+              "$": "Richard I. Masel"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2013-10-11T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0013468613018835"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0013468613018835?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.electacta.2013.09.119",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0013468613018835",
+        "dc:title": "Durable platinum/graphene catalysts assisted with polydiallyldimethylammonium for proton-exchange membrane fuel cells",
+        "prism:publicationName": "Electrochimica Acta",
+        "prism:volume": "113",
+        "prism:coverDate": "2013-12-15",
+        "prism:startingPage": "366",
+        "prism:endingPage": "372",
+        "prism:doi": "10.1016/j.electacta.2013.09.119",
+        "openaccess": false,
+        "pii": "S0013468613018835",
+        "authors": {
+          "author": [
+            {
+              "$": "M. Lei"
+            },
+            {
+              "$": "C. Liang"
+            },
+            {
+              "$": "Y. J. Wang"
+            },
+            {
+              "$": "Y. G. Wang"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2011-03-05T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0360319911001285"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0360319911001285?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.ijhydene.2011.01.083",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0360319911001285",
+        "dc:title": "Graphene and carbon nanotube structures supported on mesoporous xerogel carbon as catalysts for oxygen reduction reaction in proton-exchange-membrane fuel cells",
+        "prism:publicationName": "International Journal of Hydrogen Energy",
+        "prism:volume": "36",
+        "prism:coverDate": "2011-04-30",
+        "prism:startingPage": "5038",
+        "prism:endingPage": "5046",
+        "prism:doi": "10.1016/j.ijhydene.2011.01.083",
+        "openaccess": false,
+        "pii": "S0360319911001285",
+        "authors": {
+          "author": [
+            {
+              "$": "Catia Arbizzani"
+            },
+            {
+              "$": "Sara Righi"
+            },
+            {
+              "$": "Francesca Soavi"
+            },
+            {
+              "$": "Marina Mastragostino"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2007-11-29T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0378775307025633"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0378775307025633?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.jpowsour.2007.11.070",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0378775307025633",
+        "dc:title": "Catalyst failure analysis of a direct methanol fuel cell membrane electrode assembly",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:volume": "177",
+        "prism:coverDate": "2008-03-01",
+        "prism:startingPage": "386",
+        "prism:endingPage": "392",
+        "prism:doi": "10.1016/j.jpowsour.2007.11.070",
+        "openaccess": false,
+        "pii": "S0378775307025633",
+        "authors": {
+          "author": [
+            {
+              "$": "Zhen-Bo Wang"
+            },
+            {
+              "$": "Harry Rivera"
+            },
+            {
+              "$": "Xin-Peng Wang"
+            },
+            {
+              "$": "Eugene S. Smotkin"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2004-06-10T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0378775304004689"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0378775304004689?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.jpowsour.2004.03.053",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0378775304004689",
+        "dc:title": "Pt\u2013Ru<ce:inf\u00a0loc=post>adatom</ce:inf> nanoparticles as anode catalysts for direct methanol fuel cells",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:volume": "134",
+        "prism:coverDate": "2004-08-12",
+        "prism:startingPage": "170",
+        "prism:endingPage": "180",
+        "prism:doi": "10.1016/j.jpowsour.2004.03.053",
+        "openaccess": false,
+        "pii": "S0378775304004689",
+        "authors": {
+          "author": [
+            {
+              "$": "Dianxue Cao"
+            },
+            {
+              "$": "Steven H Bergens"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2013-11-05T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0013468613020720"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0013468613020720?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.electacta.2013.10.102",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0013468613020720",
+        "dc:title": "Activity and stability in proton exchange membrane fuel cells of iron-based cathode catalysts synthesized with addition of carbon fibers",
+        "prism:publicationName": "Electrochimica Acta",
+        "prism:volume": "115",
+        "prism:coverDate": "2014-01-01",
+        "prism:startingPage": "170",
+        "prism:endingPage": "182",
+        "prism:doi": "10.1016/j.electacta.2013.10.102",
+        "openaccess": false,
+        "pii": "S0013468613020720",
+        "authors": {
+          "author": [
+            {
+              "$": "Nicholas Larouche"
+            },
+            {
+              "$": "R\u00e9gis Chenitz"
+            },
+            {
+              "$": "Michel Lef\u00e8vre"
+            },
+            {
+              "$": "Jean-Pol Dodelet"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2014-10-31T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0013468614021641"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0013468614021641?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.electacta.2014.10.143",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0013468614021641",
+        "dc:title": "Formic acid electrooxidation catalyzed by Pd/SmOx-C hybrid catalyst in fuel cells",
+        "prism:publicationName": "Electrochimica Acta",
+        "prism:volume": "150",
+        "prism:coverDate": "2014-12-20",
+        "prism:startingPage": "329",
+        "prism:endingPage": "336",
+        "prism:doi": "10.1016/j.electacta.2014.10.143",
+        "openaccess": false,
+        "pii": "S0013468614021641",
+        "authors": {
+          "author": [
+            {
+              "$": "Kunqi Wang"
+            },
+            {
+              "$": "Bin Wang"
+            },
+            {
+              "$": "Jinfa Chang"
+            },
+            {
+              "$": "Wei Xing"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2017-12-12T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S037877531731621X"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S037877531731621X?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.jpowsour.2017.12.019",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S037877531731621X",
+        "dc:title": "Activated carbon derived from chitosan as air cathode catalyst for high performance in microbial fuel cells",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:volume": "378",
+        "prism:coverDate": "2018-02-28",
+        "prism:startingPage": "1",
+        "prism:endingPage": "9",
+        "prism:doi": "10.1016/j.jpowsour.2017.12.019",
+        "openaccess": false,
+        "pii": "S037877531731621X",
+        "authors": {
+          "author": [
+            {
+              "$": "Yi Liu"
+            },
+            {
+              "$": "Yong Zhao"
+            },
+            {
+              "$": "Kexun Li"
+            },
+            {
+              "$": "Junjie Wang"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2014-03-27T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/B9780857090591500117"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/B9780857090591500117?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1533/9780857096371.3.312",
+        "prism:url": "https://api.elsevier.com/content/article/pii/B9780857090591500117",
+        "dc:title": "11: Developments in membranes, catalysts and membrane electrode assemblies for direct methanol fuel cells (DMFCs)",
+        "prism:publicationName": "Functional Materials for Sustainable Energy Applications",
+        "prism:coverDate": "2012-12-31",
+        "prism:startingPage": "312",
+        "prism:endingPage": "369",
+        "prism:doi": "10.1533/9780857096371.3.312",
+        "openaccess": false,
+        "pii": "B9780857090591500117",
+        "authors": {
+          "author": [
+            {
+              "$": "A. Manthiram"
+            },
+            {
+              "$": "X. Zhao"
+            },
+            {
+              "$": "W. Li"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2020-09-06T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0306261920312897"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0306261920312897?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.apenergy.2020.115809",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0306261920312897",
+        "dc:title": "Durability of a recombination catalyst-based membrane-electrode assembly for electrolysis operation at high current density",
+        "prism:publicationName": "Applied Energy",
+        "prism:volume": "279",
+        "prism:coverDate": "2020-12-01",
+        "prism:startingPage": "115809",
+        "prism:doi": "10.1016/j.apenergy.2020.115809",
+        "openaccess": false,
+        "pii": "S0306261920312897",
+        "authors": {
+          "author": [
+            {
+              "$": "Fabiola Pant\u00f2"
+            },
+            {
+              "$": "Stefania Siracusano"
+            },
+            {
+              "$": "Antonino Salvatore Aric\u00f2"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2016-04-05T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0306261916304391"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0306261916304391?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.apenergy.2016.03.115",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0306261916304391",
+        "dc:title": "Novel hierarchical SnO<ce:inf\u00a0loc=post>2</ce:inf> microsphere catalyst coated on gas diffusion electrode for enhancing energy efficiency of CO<ce:inf\u00a0loc=post>2</ce:inf> reduction to formate fuel",
+        "prism:publicationName": "Applied Energy",
+        "prism:volume": "175",
+        "prism:coverDate": "2016-08-01",
+        "prism:startingPage": "536",
+        "prism:endingPage": "544",
+        "prism:doi": "10.1016/j.apenergy.2016.03.115",
+        "openaccess": false,
+        "pii": "S0306261916304391",
+        "authors": {
+          "author": [
+            {
+              "$": "Yishu Fu"
+            },
+            {
+              "$": "Yanan Li"
+            },
+            {
+              "$": "Xia Zhang"
+            },
+            {
+              "$": "David P. Wilkinson"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2008-03-25T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0378775308005946"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0378775308005946?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.jpowsour.2008.03.042",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0378775308005946",
+        "dc:title": "Investigation of the performance decay of anodic PtRu catalyst with working time of direct methanol fuel cells",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:volume": "181",
+        "prism:coverDate": "2008-06-15",
+        "prism:startingPage": "93",
+        "prism:endingPage": "100",
+        "prism:doi": "10.1016/j.jpowsour.2008.03.042",
+        "openaccess": false,
+        "pii": "S0378775308005946",
+        "authors": {
+          "author": [
+            {
+              "$": "Zhen-Bo Wang"
+            },
+            {
+              "$": "Xin-Peng Wang"
+            },
+            {
+              "$": "Peng-Jian Zuo"
+            },
+            {
+              "$": "Xian-Ping Feng"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2008-08-27T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0378775308016637"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0378775308016637?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.jpowsour.2008.08.045",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0378775308016637",
+        "dc:title": "Durability studies of unsupported Pt cathodic catalyst with working time of direct methanol fuel cells",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:volume": "185",
+        "prism:coverDate": "2008-12-01",
+        "prism:startingPage": "1066",
+        "prism:endingPage": "1072",
+        "prism:doi": "10.1016/j.jpowsour.2008.08.045",
+        "openaccess": false,
+        "pii": "S0378775308016637",
+        "authors": {
+          "author": [
+            {
+              "$": "Zhen-Bo Wang"
+            },
+            {
+              "$": "Yu-Yan Shao"
+            },
+            {
+              "$": "Peng-Jian Zuo"
+            },
+            {
+              "$": "Ge-Ping Yin"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2012-10-26T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0013468612016362"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0013468612016362?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.electacta.2012.10.024",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0013468612016362",
+        "dc:title": "Pt and Pt\u2013Ru catalysts for polymer electrolyte fuel cells deposited onto carbide derived carbon supports",
+        "prism:publicationName": "Electrochimica Acta",
+        "prism:volume": "101",
+        "prism:coverDate": "2013-07-01",
+        "prism:startingPage": "130",
+        "prism:endingPage": "141",
+        "prism:doi": "10.1016/j.electacta.2012.10.024",
+        "openaccess": false,
+        "pii": "S0013468612016362",
+        "authors": {
+          "author": [
+            {
+              "$": "E. Lust"
+            },
+            {
+              "$": "E. H\u00e4rk"
+            },
+            {
+              "$": "J. Nerut"
+            },
+            {
+              "$": "K. Vaarmets"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2006-04-18T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0013468606002192"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0013468606002192?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.electacta.2006.03.002",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0013468606002192",
+        "dc:title": "Co-catalytic effect of Ni in the methanol electro-oxidation on Pt\u2013Ru/C catalyst for direct methanol fuel cell",
+        "prism:publicationName": "Electrochimica Acta",
+        "prism:volume": "51",
+        "prism:coverDate": "2006-08-15",
+        "prism:startingPage": "5691",
+        "prism:endingPage": "5697",
+        "prism:doi": "10.1016/j.electacta.2006.03.002",
+        "openaccess": false,
+        "pii": "S0013468606002192",
+        "authors": {
+          "author": [
+            {
+              "$": "Z. B. Wang"
+            },
+            {
+              "$": "G. P. Yin"
+            },
+            {
+              "$": "J. Zhang"
+            },
+            {
+              "$": "P. F. Shi"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2010-08-17T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0378775310013510"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0378775310013510?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.jpowsour.2010.08.033",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0378775310013510",
+        "dc:title": "Stochastic reconstruction and a scaling method to determine effective transport coefficients of a proton exchange membrane fuel cell catalyst layer",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:volume": "196",
+        "prism:coverDate": "2011-02-01",
+        "prism:startingPage": "1248",
+        "prism:endingPage": "1257",
+        "prism:doi": "10.1016/j.jpowsour.2010.08.033",
+        "openaccess": false,
+        "pii": "S0378775310013510",
+        "authors": {
+          "author": [
+            {
+              "$": "R. Barbosa"
+            },
+            {
+              "$": "J. Andaverde"
+            },
+            {
+              "$": "B. Escobar"
+            },
+            {
+              "$": "U. Cano"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2014-05-02T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0013468614009025"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0013468614009025?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.electacta.2014.04.142",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0013468614009025",
+        "dc:title": "Spillover effect induced Pt-TiO<ce:inf\u00a0loc=post>2</ce:inf>/C as ethanol tolerant oxygen reduction reaction catalyst for direct ethanol fuel cells",
+        "prism:publicationName": "Electrochimica Acta",
+        "prism:volume": "135",
+        "prism:coverDate": "2014-07-20",
+        "prism:startingPage": "52",
+        "prism:endingPage": "59",
+        "prism:doi": "10.1016/j.electacta.2014.04.142",
+        "openaccess": false,
+        "pii": "S0013468614009025",
+        "authors": {
+          "author": [
+            {
+              "$": "S. Meenakshi"
+            },
+            {
+              "$": "K. G. Nishanth"
+            },
+            {
+              "$": "P. Sridhar"
+            },
+            {
+              "$": "S. Pitchumani"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2006-10-17T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0008622306004428"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0008622306004428?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.carbon.2006.08.023",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0008622306004428",
+        "dc:title": "Carbon aerogel supported Pt\u2013Ru catalysts for using as the anode of direct methanol fuel cells",
+        "prism:publicationName": "Carbon",
+        "prism:volume": "45",
+        "prism:coverDate": "2007-02-28",
+        "prism:startingPage": "429",
+        "prism:endingPage": "435",
+        "prism:doi": "10.1016/j.carbon.2006.08.023",
+        "openaccess": false,
+        "pii": "S0008622306004428",
+        "authors": {
+          "author": [
+            {
+              "$": "Hongda Du"
+            },
+            {
+              "$": "Baohua Li"
+            },
+            {
+              "$": "Feiyu Kang"
+            },
+            {
+              "$": "Yuqun Zeng"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2020-08-25T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S1572665720308201"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S1572665720308201?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.jelechem.2020.114592",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S1572665720308201",
+        "dc:title": "Comparative study of catalyst effect on ethanol electrooxidation in alkaline medium: Pt- and Pd-based catalysts containing Sn and Ru",
+        "prism:publicationName": "Journal of Electroanalytical Chemistry",
+        "prism:volume": "878",
+        "prism:coverDate": "2020-12-01",
+        "prism:startingPage": "114592",
+        "prism:doi": "10.1016/j.jelechem.2020.114592",
+        "openaccess": false,
+        "pii": "S1572665720308201",
+        "authors": {
+          "author": [
+            {
+              "$": "L. M. Palma"
+            },
+            {
+              "$": "T. S. Almeida"
+            },
+            {
+              "$": "A. R. de Andrade"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2009-04-07T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0013468609004885"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0013468609004885?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.electacta.2009.03.070",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0013468609004885",
+        "dc:title": "Investigation of carbon-supported Pt and PtCo catalysts for oxygen reduction in direct methanol fuel cells",
+        "prism:publicationName": "Electrochimica Acta",
+        "prism:volume": "54",
+        "prism:coverDate": "2009-08-30",
+        "prism:startingPage": "4844",
+        "prism:endingPage": "4850",
+        "prism:doi": "10.1016/j.electacta.2009.03.070",
+        "openaccess": false,
+        "pii": "S0013468609004885",
+        "authors": {
+          "author": [
+            {
+              "$": "S. Siracusano"
+            },
+            {
+              "$": "A. Stassi"
+            },
+            {
+              "$": "V. Baglio"
+            },
+            {
+              "$": "A. C. Tavares"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2006-02-13T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0378775306000838"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0378775306000838?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.jpowsour.2006.01.021",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0378775306000838",
+        "dc:title": "Investigation of ethanol electrooxidation on a Pt\u2013Ru\u2013Ni/C catalyst for a direct ethanol fuel cell",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:volume": "160",
+        "prism:coverDate": "2006-09-29",
+        "prism:startingPage": "37",
+        "prism:endingPage": "43",
+        "prism:doi": "10.1016/j.jpowsour.2006.01.021",
+        "openaccess": false,
+        "pii": "S0378775306000838",
+        "authors": {
+          "author": [
+            {
+              "$": "Zhen-Bo Wang"
+            },
+            {
+              "$": "Ge-Ping Yin"
+            },
+            {
+              "$": "Jian Zhang"
+            },
+            {
+              "$": "Peng-Fei Shi"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2006-11-09T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0378775306020295"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0378775306020295?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.jpowsour.2006.09.055",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0378775306020295",
+        "dc:title": "The influence of acidic and alkaline precursors on Pt<ce:glyph\u00a0name=sbnd></ce:glyph>Ru/C catalyst performance for a direct methanol fuel cell",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:volume": "163",
+        "prism:coverDate": "2007-01-01",
+        "prism:startingPage": "688",
+        "prism:endingPage": "694",
+        "prism:doi": "10.1016/j.jpowsour.2006.09.055",
+        "openaccess": false,
+        "pii": "S0378775306020295",
+        "authors": {
+          "author": [
+            {
+              "$": "Zhen-Bo Wang"
+            },
+            {
+              "$": "Ge-Ping Yin"
+            },
+            {
+              "$": "Peng-Fei Shi"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2014-03-11T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0360319914003176"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0360319914003176?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.ijhydene.2014.01.203",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0360319914003176",
+        "dc:title": "Effect of support materials on the performance of\u00a0direct ethanol fuel cell anode catalyst",
+        "prism:publicationName": "International Journal of Hydrogen Energy",
+        "prism:volume": "39",
+        "prism:coverDate": "2014-09-23",
+        "prism:startingPage": "15956",
+        "prism:endingPage": "15966",
+        "prism:doi": "10.1016/j.ijhydene.2014.01.203",
+        "openaccess": false,
+        "pii": "S0360319914003176",
+        "authors": {
+          "author": [
+            {
+              "$": "Jyoti Goel"
+            },
+            {
+              "$": "Suddhasatwa Basu"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2011-06-20T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0360319911010251"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0360319911010251?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.ijhydene.2011.04.158",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0360319911010251",
+        "dc:title": "Performance studies of Pd\u2013Pt and Pt\u2013Pd\u2013Au catalyst for electro-oxidation of glucose in direct glucose fuel cell",
+        "prism:publicationName": "International Journal of Hydrogen Energy",
+        "prism:volume": "37",
+        "prism:coverDate": "2012-03-31",
+        "prism:startingPage": "4678",
+        "prism:endingPage": "4684",
+        "prism:doi": "10.1016/j.ijhydene.2011.04.158",
+        "openaccess": false,
+        "pii": "S0360319911010251",
+        "authors": {
+          "author": [
+            {
+              "$": "Debika Basu"
+            },
+            {
+              "$": "Suddhasatwa Basu"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2011-12-31T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0360319911026814"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0360319911026814?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.ijhydene.2011.12.029",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0360319911026814",
+        "dc:title": "Pt\u2013Ru catalysts supported on carbon xerogels for PEM fuel cells",
+        "prism:publicationName": "International Journal of Hydrogen Energy",
+        "prism:volume": "37",
+        "prism:coverDate": "2012-04-30",
+        "prism:startingPage": "7200",
+        "prism:endingPage": "7211",
+        "prism:doi": "10.1016/j.ijhydene.2011.12.029",
+        "openaccess": false,
+        "pii": "S0360319911026814",
+        "authors": {
+          "author": [
+            {
+              "$": "J. C. Calder\u00f3n"
+            },
+            {
+              "$": "N. Mahata"
+            },
+            {
+              "$": "M. F. R. Pereira"
+            },
+            {
+              "$": "E. Pastor"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "load-date": "2014-11-03T00:00:00.000Z",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/article/pii/S0926337314006948"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scidir",
+            "@href": "https://www.sciencedirect.com/science/article/pii/S0926337314006948?dgcid=api_sd_search-api-endpoint"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.apcatb.2014.10.074",
+        "prism:url": "https://api.elsevier.com/content/article/pii/S0926337314006948",
+        "dc:title": "Fe\u2013N supported on graphitic carbon nano-networks grown from cobalt as oxygen reduction catalysts for low-temperature fuel cells",
+        "prism:publicationName": "Applied Catalysis B: Environmental",
+        "prism:volume": "166\u2013167",
+        "prism:coverDate": "2015-05-31",
+        "prism:startingPage": "75",
+        "prism:endingPage": "83",
+        "prism:doi": "10.1016/j.apcatb.2014.10.074",
+        "openaccess": false,
+        "pii": "S0926337314006948",
+        "authors": {
+          "author": [
+            {
+              "$": "Emanuela Negro"
+            },
+            {
+              "$": "Alessandro H. A. Monteverde Videla"
+            },
+            {
+              "$": "Vincenzo Baglio"
+            },
+            {
+              "$": "Ger J. M. Koper"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
